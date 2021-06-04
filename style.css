@@ -1,0 +1,84 @@
+* {
+    background: url("img/bg.jpg") repeat;
+}
+
+#logo {
+    height: 40px;
+    width: 40px;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+
+#logo img {
+    height: 40px;
+    width: 40px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    margin-top: 4rem;
+    padding-top: 0.6rem;
+    font-family: 'Limelight', cursive;
+}
+
+#login {
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(182, 0, 0);
+}
+
+form {
+    color: blanchedalmond;
+    margin-top: 30px;
+}
+
+input {
+    color: rgb(0, 255, 242);
+    font-family: 'Limelight', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#pass {
+    margin-top: 12px;
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+label {
+    font-family: 'Limelight', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#btn {
+    color: white;
+    margin-top: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 23px;
+}
+
+#btn:hover {
+    background: url("img/bg.jpg");
+    /*color: rgb(0, 18, 68);
+    border-radius: 40%;*/
+    border-color: white;
+    border-width: 0.2rem;
+}
+
+h2 {
+    color: white;
+    font-family: 'Kalam', cursive;
+    font-family: 'Limelight', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#client img {
+    height: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
